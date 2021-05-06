@@ -2,10 +2,10 @@
 
 All prices, tiers and countries. 
 
-Original URL (not working):
+Original URL (not working):<br>
 https://appstoreconnect.apple.com/WebObjects/iTunesConnect.woa/ra/ng/app/[ID_APP]/pricingMatrix
 
-New URL (log-in required):
+New URL (log-in required):<br>
 https://appstoreconnect.apple.com/apps/pricingmatrix
 
-Last updated 2020-10-29
+Last update: 2020-10-29
